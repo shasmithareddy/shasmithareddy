@@ -55,7 +55,7 @@
   <p>&nbsp</p
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasmithareddy&label=Profile%20views&color=0e75b6&style=flat" alt="shasmithareddy" /> </p>
   <h3 align="left">Connect with me :</h3>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/> 
+  <a href="https://www.instagram.com/s.h.a.s.m.i.t.h.a._r.e.d.d.y/profilecard/?igsh=MWx2YnB2YW1jdjUzbA=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/> </a>
   <a href=mailto:shasmitharam@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/shasmitha-r-7ba139177/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
  <a href="https://x.com/ShasmithaR"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
